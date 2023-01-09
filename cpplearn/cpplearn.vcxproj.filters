@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\stage2">
+      <UniqueIdentifier>{213e2f9c-7b3a-4b14-8722-62004e7ba2c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\stage1">
+      <UniqueIdentifier>{fd794268-afaa-450f-90f1-5f4ce98afd27}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="struct1.cpp">
+      <Filter>Resource Files\stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.cpp">
+      <Filter>Resource Files\stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\test - Copy\test\operation.cpp">
+      <Filter>Resource Files\stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="multifileProgramme.cpp">
+      <Filter>Resource Files\stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="function1.cpp">
+      <Filter>Resource Files\stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="flowOfExecution.cpp">
+      <Filter>Resource Files\stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\test - Copy\test\datatypeandcomments.cpp">
+      <Filter>Resource Files\stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="array1.cpp">
+      <Filter>Resource Files\stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="memoryModel.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="reference.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="class1.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="class2.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="multifileProgramme.h">
+      <Filter>Resource Files\stage1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

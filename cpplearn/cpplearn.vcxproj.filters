@@ -60,6 +60,21 @@
     <ClCompile Include="class2.cpp">
       <Filter>Resource Files\stage2</Filter>
     </ClCompile>
+    <ClCompile Include="class3.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="class4.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="class5.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="opratoroverride.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="operatoroverride2.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="multifileProgramme.h">

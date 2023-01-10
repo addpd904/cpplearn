@@ -131,12 +131,17 @@
     <ClCompile Include="..\..\test - Copy\test\operation.cpp" />
     <ClCompile Include="class1.cpp" />
     <ClCompile Include="class2.cpp" />
+    <ClCompile Include="class3.cpp" />
+    <ClCompile Include="class4.cpp" />
+    <ClCompile Include="class5.cpp" />
     <ClCompile Include="flowOfExecution.cpp" />
     <ClCompile Include="array1.cpp" />
     <ClCompile Include="function.cpp" />
     <ClCompile Include="function1.cpp" />
     <ClCompile Include="memoryModel.cpp" />
     <ClCompile Include="multifileProgramme.cpp" />
+    <ClCompile Include="operatoroverride2.cpp" />
+    <ClCompile Include="opratoroverride.cpp" />
     <ClCompile Include="pointer.cpp" />
     <ClCompile Include="reference.cpp" />
     <ClCompile Include="struct1.cpp" />

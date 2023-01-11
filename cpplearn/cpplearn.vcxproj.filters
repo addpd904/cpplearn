@@ -22,6 +22,9 @@
     <Filter Include="Resource Files\stage3">
       <UniqueIdentifier>{5b93e1f9-fa76-4845-806f-a3004f7b61fa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\algorithm">
+      <UniqueIdentifier>{7f05fd9d-612f-4251-a0e8-c52ad5619d17}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="struct1.cpp">
@@ -111,8 +114,23 @@
     <ClCompile Include="deque.cpp">
       <Filter>Resource Files\stage3</Filter>
     </ClCompile>
-    <ClCompile Include="stack.cpp">
+    <ClCompile Include="stackQueueList.cpp">
       <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="setPair.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="funcClass.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="predicate.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="algorithm1.cpp">
+      <Filter>Resource Files\algorithm</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

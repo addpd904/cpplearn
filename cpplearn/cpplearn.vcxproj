@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\test - Copy\test\datatypeandcomments.cpp" />
     <ClCompile Include="..\..\test - Copy\test\operation.cpp" />
+    <ClCompile Include="algorithm1.cpp" />
     <ClCompile Include="capsulation1.cpp" />
     <ClCompile Include="capsulation2.cpp" />
     <ClCompile Include="capsulation3.cpp" />
@@ -141,16 +142,20 @@
     <ClCompile Include="file2binary.cpp" />
     <ClCompile Include="flowOfExecution.cpp" />
     <ClCompile Include="array1.cpp" />
+    <ClCompile Include="funcClass.cpp" />
     <ClCompile Include="function.cpp" />
     <ClCompile Include="function1.cpp" />
+    <ClCompile Include="map.cpp" />
     <ClCompile Include="memoryModel.cpp" />
     <ClCompile Include="multifileProgramme.cpp" />
     <ClCompile Include="operatoroverride2.cpp" />
     <ClCompile Include="opratoroverride.cpp" />
     <ClCompile Include="pointer.cpp" />
     <ClCompile Include="polymorphism1.cpp" />
+    <ClCompile Include="predicate.cpp" />
     <ClCompile Include="reference.cpp" />
-    <ClCompile Include="stack.cpp" />
+    <ClCompile Include="setPair.cpp" />
+    <ClCompile Include="stackQueueList.cpp" />
     <ClCompile Include="stringandvector.cpp" />
     <ClCompile Include="struct1.cpp" />
     <ClCompile Include="template.cpp" />

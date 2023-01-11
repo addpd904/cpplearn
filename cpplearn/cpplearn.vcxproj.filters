@@ -19,6 +19,9 @@
     <Filter Include="Resource Files\stage1">
       <UniqueIdentifier>{fd794268-afaa-450f-90f1-5f4ce98afd27}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\stage3">
+      <UniqueIdentifier>{5b93e1f9-fa76-4845-806f-a3004f7b61fa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="struct1.cpp">
@@ -54,19 +57,19 @@
     <ClCompile Include="function.cpp">
       <Filter>Resource Files\stage2</Filter>
     </ClCompile>
-    <ClCompile Include="class1.cpp">
+    <ClCompile Include="capsulation1.cpp">
       <Filter>Resource Files\stage2</Filter>
     </ClCompile>
-    <ClCompile Include="class2.cpp">
+    <ClCompile Include="capsulation2.cpp">
       <Filter>Resource Files\stage2</Filter>
     </ClCompile>
-    <ClCompile Include="class3.cpp">
+    <ClCompile Include="capsulation3.cpp">
       <Filter>Resource Files\stage2</Filter>
     </ClCompile>
-    <ClCompile Include="class4.cpp">
+    <ClCompile Include="capsulation4.cpp">
       <Filter>Resource Files\stage2</Filter>
     </ClCompile>
-    <ClCompile Include="class5.cpp">
+    <ClCompile Include="capsulation5.cpp">
       <Filter>Resource Files\stage2</Filter>
     </ClCompile>
     <ClCompile Include="opratoroverride.cpp">
@@ -75,10 +78,49 @@
     <ClCompile Include="operatoroverride2.cpp">
       <Filter>Resource Files\stage2</Filter>
     </ClCompile>
+    <ClCompile Include="extend1.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="extend2.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="polymorphism1.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="file1.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="file2binary.cpp">
+      <Filter>Resource Files\stage2</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="templateClass.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="template3.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="template4.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="stringandvector.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="deque.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>Resource Files\stage3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="multifileProgramme.h">
       <Filter>Resource Files\stage1</Filter>
+    </ClInclude>
+    <ClInclude Include="Persont.hpp">
+      <Filter>Resource Files\stage3</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

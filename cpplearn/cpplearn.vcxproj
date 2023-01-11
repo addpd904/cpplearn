@@ -129,11 +129,16 @@
   <ItemGroup>
     <ClCompile Include="..\..\test - Copy\test\datatypeandcomments.cpp" />
     <ClCompile Include="..\..\test - Copy\test\operation.cpp" />
-    <ClCompile Include="class1.cpp" />
-    <ClCompile Include="class2.cpp" />
-    <ClCompile Include="class3.cpp" />
-    <ClCompile Include="class4.cpp" />
-    <ClCompile Include="class5.cpp" />
+    <ClCompile Include="capsulation1.cpp" />
+    <ClCompile Include="capsulation2.cpp" />
+    <ClCompile Include="capsulation3.cpp" />
+    <ClCompile Include="capsulation4.cpp" />
+    <ClCompile Include="capsulation5.cpp" />
+    <ClCompile Include="deque.cpp" />
+    <ClCompile Include="extend1.cpp" />
+    <ClCompile Include="extend2.cpp" />
+    <ClCompile Include="file1.cpp" />
+    <ClCompile Include="file2binary.cpp" />
     <ClCompile Include="flowOfExecution.cpp" />
     <ClCompile Include="array1.cpp" />
     <ClCompile Include="function.cpp" />
@@ -143,11 +148,19 @@
     <ClCompile Include="operatoroverride2.cpp" />
     <ClCompile Include="opratoroverride.cpp" />
     <ClCompile Include="pointer.cpp" />
+    <ClCompile Include="polymorphism1.cpp" />
     <ClCompile Include="reference.cpp" />
+    <ClCompile Include="stack.cpp" />
+    <ClCompile Include="stringandvector.cpp" />
     <ClCompile Include="struct1.cpp" />
+    <ClCompile Include="template.cpp" />
+    <ClCompile Include="template3.cpp" />
+    <ClCompile Include="template4.cpp" />
+    <ClCompile Include="templateClass.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="multifileProgramme.h" />
+    <ClInclude Include="Persont.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
